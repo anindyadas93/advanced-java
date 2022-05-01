@@ -1,0 +1,30 @@
+public class Test {
+	public static void main(String args[]) {
+		final int a=12345;
+		System.out.println(a);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		a=6;
+		System.out.println(a);
+	}
+}
